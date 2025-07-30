@@ -123,7 +123,7 @@ FROM fact_campaigns
 GROUP BY tenant_id;
 ```
 
-## 🛠️ **Project Structure**
+##  **Project Structure**
 
 ```
 bi-platform-project/
@@ -196,7 +196,7 @@ def transform_new_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
 - **Metabase**: Add database connection
 - **Custom Dashboards**: REST API endpoints
 
-## 📝 **Development Log**
+##  **Development Log**
 
 ### **Version 1.0 (Current)**
 - ✅ Complete ETL pipeline implementation
