@@ -1,8 +1,8 @@
-# 🚀 Multi-Tenant BI Platform - ETL Pipeline
+#  Multi-Tenant BI Platform - ETL Pipeline
 
 A comprehensive **Business Intelligence (BI) platform** with multi-tenant architecture, featuring end-to-end ETL pipeline, data warehousing, and analytics capabilities.
 
-## 🎯 **Project Overview**
+##  **Project Overview**
 
 This project demonstrates advanced data engineering skills by building a production-ready BI platform that:
 - **Processes 900+ marketing campaigns** across multiple tenants
@@ -10,7 +10,7 @@ This project demonstrates advanced data engineering skills by building a product
 - **Manages 450+ customer records** with API integration
 - **Provides real-time analytics** and dashboard-ready data
 
-## 🏗️ **Architecture & Technologies**
+##  **Architecture & Technologies**
 
 ### **Tech Stack:**
 - **Python 3.13** - Core programming language
@@ -29,7 +29,7 @@ This project demonstrates advanced data engineering skills by building a product
   Multi-tenant        Validate           Dimension Tables    Reports
 ```
 
-## 📊 **Key Features**
+##  **Key Features**
 
 ### **1. Multi-Tenant Data Management**
 - **3 distinct tenants** with isolated data
@@ -53,7 +53,7 @@ This project demonstrates advanced data engineering skills by building a product
 - **Time-series analysis**: Daily performance tracking
 - **Tenant comparisons**: Cross-tenant analytics
 
-## 🚀 **Quick Start**
+## **Quick Start**
 
 ### **Prerequisites:**
 ```bash
@@ -97,7 +97,7 @@ INFO: ETL Pipeline completed successfully!
  tenant_003              100      945,575.77     0.80
 ```
 
-## 📈 **Sample Analytics**
+##  **Sample Analytics**
 
 ### **Campaign Performance Dashboard:**
 ```sql
@@ -142,7 +142,7 @@ bi-platform-project/
 └── venv/                     # Virtual environment
 ```
 
-## 📊 **Data Quality & Validation**
+##  **Data Quality & Validation**
 
 ### **Data Quality Checks:**
 - ✅ **No NULL values** in key fields
@@ -157,7 +157,7 @@ bi-platform-project/
 - **Error Recovery**: Graceful failure handling
 - **Scalability**: Ready for 10x data volume
 
-## 🎯 **Business Impact**
+##  **Business Impact**
 
 ### **Real-World Applications:**
 1. **Marketing Analytics**: Campaign performance tracking
@@ -172,7 +172,7 @@ bi-platform-project/
 - **Documentation** and logging for team collaboration
 - **Best practices** in data engineering and ETL design
 
-## 🔧 **Customization & Extension**
+##  **Customization & Extension**
 
 ### **Adding New Data Sources:**
 ```python
@@ -213,7 +213,7 @@ def transform_new_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
 - [ ] Cloud deployment (AWS/Azure)
 - [ ] API endpoints for external access
 
-## 🤝 **Contributing**
+## **Contributing**
 
 This project demonstrates advanced data engineering skills suitable for:
 - **Data Engineer** positions
@@ -223,12 +223,12 @@ This project demonstrates advanced data engineering skills suitable for:
 
 ## 📞 **Contact**
 
-**LinkedIn**: [Your LinkedIn Profile]
-**GitHub**: [Your GitHub Profile]
-**Portfolio**: [Your Portfolio Website]
+**LinkedIn**:(https://www.linkedin.com/in/aqsa-tanveer-3816361a0/)
+**GitHub**: [Your GitHub Profile](https://github.com/aqsa11111)
+
 
 ---
 
-**Built with ❤️ using Python, Pandas, and SQLite**
+**Built with  using Python, Pandas, and SQLite**
 
 *This project showcases advanced data engineering, ETL pipeline development, and business intelligence platform architecture.*
