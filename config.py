@@ -1,0 +1,10 @@
+DATABASE_PATH = "data_warehouse.db"
+API_HOST = "localhost"
+API_PORT = 5000
+API_BASE_URL = f"http://{API_HOST}:{API_PORT}"
+CSV_FILE = "marketing_campaigns.csv"
+EXCEL_FILE = "sales_targets.xlsx"
+TENANTS = ['tenant_001', 'tenant_002', 'tenant_003']
+REGIONS = ['North', 'South', 'East', 'West']
+LOG_LEVEL = "INFO"
+LOG_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

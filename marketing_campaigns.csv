@@ -1,0 +1,301 @@
+tenant_id,campaign_id,campaign_name,date,impressions,clicks,conversions,spend,revenue,region,product
+tenant_001,camp_tenant_001_000,Campaign 1 - Video,2024-10-03,30669,2257,337,8216.65,16441.04,South,Product C
+tenant_001,camp_tenant_001_001,Campaign 2 - Search,2024-11-16,9891,254,361,8685.25,6934.3,South,Product A
+tenant_001,camp_tenant_001_002,Campaign 3 - Email,2024-10-19,36664,1036,398,8829.32,19904.47,North,Product D
+tenant_001,camp_tenant_001_003,Campaign 4 - Video,2024-10-20,17182,2753,408,6032.67,12758.64,East,Product B
+tenant_001,camp_tenant_001_004,Campaign 5 - Social Media,2024-10-24,29151,2895,153,4904.05,9046.38,South,Product E
+tenant_001,camp_tenant_001_005,Campaign 6 - Email,2024-11-07,25375,1849,490,647.25,449.51,West,Product E
+tenant_001,camp_tenant_001_006,Campaign 7 - Search,2024-11-24,18150,3127,404,362.56,902.41,East,Product B
+tenant_001,camp_tenant_001_007,Campaign 8 - Social Media,2024-11-01,33812,1094,338,6526.08,12726.83,South,Product B
+tenant_001,camp_tenant_001_008,Campaign 9 - Search,2024-10-16,34647,2169,489,5868.77,11775.31,East,Product B
+tenant_001,camp_tenant_001_009,Campaign 10 - Search,2024-10-10,34071,3628,330,9794.94,18170.37,South,Product C
+tenant_001,camp_tenant_001_010,Campaign 11 - Video,2024-10-13,42801,3811,45,8769.03,8738.32,South,Product E
+tenant_001,camp_tenant_001_011,Campaign 12 - Email,2024-10-31,12506,2295,488,8885.17,9661.01,East,Product D
+tenant_001,camp_tenant_001_012,Campaign 13 - Email,2024-11-06,37588,1652,318,1210.15,1239.34,North,Product E
+tenant_001,camp_tenant_001_013,Campaign 14 - Video,2024-10-21,31571,1033,19,9587.83,18438.05,East,Product E
+tenant_001,camp_tenant_001_014,Campaign 15 - Search,2024-10-25,13414,4067,69,2041.23,2598.5,West,Product E
+tenant_001,camp_tenant_001_015,Campaign 16 - Email,2024-11-13,27697,3538,294,4569.23,6403.59,North,Product A
+tenant_001,camp_tenant_001_016,Campaign 17 - Social Media,2024-10-04,49608,531,214,4427.79,11050.19,North,Product D
+tenant_001,camp_tenant_001_017,Campaign 18 - Social Media,2024-10-20,47410,1853,179,7514.77,10093.22,South,Product A
+tenant_001,camp_tenant_001_018,Campaign 19 - Social Media,2024-11-24,6146,2635,447,7242.56,9585.06,South,Product A
+tenant_001,camp_tenant_001_019,Campaign 20 - Display,2024-11-24,13810,4235,119,887.42,1588.54,South,Product C
+tenant_001,camp_tenant_001_020,Campaign 21 - Email,2024-11-12,47181,3774,38,9138.52,16814.82,South,Product B
+tenant_001,camp_tenant_001_021,Campaign 22 - Email,2024-11-24,20451,3030,106,9205.16,26697.84,South,Product E
+tenant_001,camp_tenant_001_022,Campaign 23 - Search,2024-11-29,32692,4476,385,5510.12,14739.04,East,Product B
+tenant_001,camp_tenant_001_023,Campaign 24 - Email,2024-11-30,7914,1621,454,7032.47,8036.24,East,Product D
+tenant_001,camp_tenant_001_024,Campaign 25 - Email,2024-11-29,20979,2956,244,5475.74,9112.52,South,Product C
+tenant_001,camp_tenant_001_025,Campaign 26 - Video,2024-10-13,31713,106,201,3306.71,8935.71,South,Product C
+tenant_001,camp_tenant_001_026,Campaign 27 - Video,2024-10-12,39512,1538,421,3423.65,9232.46,East,Product D
+tenant_001,camp_tenant_001_027,Campaign 28 - Video,2024-10-29,49173,3780,377,3148.63,5713.96,South,Product E
+tenant_001,camp_tenant_001_028,Campaign 29 - Email,2024-11-18,10020,4183,324,8901.93,8816.93,West,Product A
+tenant_001,camp_tenant_001_029,Campaign 30 - Social Media,2024-11-29,9623,2556,368,9781.8,10858.78,West,Product B
+tenant_001,camp_tenant_001_030,Campaign 31 - Video,2024-10-28,11880,1262,152,7327.65,14983.81,North,Product A
+tenant_001,camp_tenant_001_031,Campaign 32 - Email,2024-11-25,33647,4380,384,3404.65,2056.18,West,Product D
+tenant_001,camp_tenant_001_032,Campaign 33 - Search,2024-10-28,9128,112,247,5712.36,11604.06,North,Product B
+tenant_001,camp_tenant_001_033,Campaign 34 - Email,2024-11-14,42408,3511,261,2664.96,7772.62,South,Product E
+tenant_001,camp_tenant_001_034,Campaign 35 - Email,2024-11-05,24073,3309,435,6376.06,5867.71,East,Product C
+tenant_001,camp_tenant_001_035,Campaign 36 - Display,2024-11-24,20908,2540,26,6137.01,5937.4,West,Product D
+tenant_001,camp_tenant_001_036,Campaign 37 - Search,2024-11-23,33789,3343,140,2154.23,3280.49,West,Product A
+tenant_001,camp_tenant_001_037,Campaign 38 - Video,2024-10-18,33689,4905,266,7103.35,20831.65,East,Product A
+tenant_001,camp_tenant_001_038,Campaign 39 - Search,2024-11-13,9811,3759,498,9507.31,26816.85,South,Product D
+tenant_001,camp_tenant_001_039,Campaign 40 - Display,2024-10-03,33512,3748,287,4010.32,10727.07,North,Product E
+tenant_001,camp_tenant_001_040,Campaign 41 - Email,2024-11-02,20594,1191,477,8850.03,22868.99,West,Product B
+tenant_001,camp_tenant_001_041,Campaign 42 - Display,2024-11-02,28106,709,314,8611.73,18576.27,West,Product A
+tenant_001,camp_tenant_001_042,Campaign 43 - Search,2024-11-27,18972,2117,66,455.71,1092.61,North,Product A
+tenant_001,camp_tenant_001_043,Campaign 44 - Video,2024-10-13,5141,2839,464,201.56,284.06,South,Product C
+tenant_001,camp_tenant_001_044,Campaign 45 - Email,2024-10-15,29513,1987,434,905.92,2007.34,North,Product C
+tenant_001,camp_tenant_001_045,Campaign 46 - Social Media,2024-11-14,30570,4417,348,7252.17,8300.5,West,Product B
+tenant_001,camp_tenant_001_046,Campaign 47 - Email,2024-11-22,16399,4634,230,8178.49,5530.1,South,Product B
+tenant_001,camp_tenant_001_047,Campaign 48 - Social Media,2024-11-30,23179,3743,402,2457.51,4833.86,West,Product D
+tenant_001,camp_tenant_001_048,Campaign 49 - Video,2024-10-06,35078,3229,135,7801.61,13092.52,West,Product A
+tenant_001,camp_tenant_001_049,Campaign 50 - Email,2024-11-01,44987,2794,108,4910.36,12978.06,South,Product A
+tenant_001,camp_tenant_001_050,Campaign 51 - Search,2024-11-29,13881,1363,182,7716.87,17029.11,West,Product D
+tenant_001,camp_tenant_001_051,Campaign 52 - Search,2024-10-14,35647,4722,330,4910.65,7884.42,East,Product A
+tenant_001,camp_tenant_001_052,Campaign 53 - Email,2024-10-27,31202,647,361,6015.58,11540.13,South,Product C
+tenant_001,camp_tenant_001_053,Campaign 54 - Social Media,2024-10-14,16767,2231,364,634.29,332.37,East,Product B
+tenant_001,camp_tenant_001_054,Campaign 55 - Email,2024-10-13,19397,1113,427,5950.94,3020.65,East,Product C
+tenant_001,camp_tenant_001_055,Campaign 56 - Search,2024-11-09,11991,2621,169,2910.15,5012.79,North,Product A
+tenant_001,camp_tenant_001_056,Campaign 57 - Social Media,2024-10-28,8735,4607,211,4906.81,4470.95,West,Product A
+tenant_001,camp_tenant_001_057,Campaign 58 - Video,2024-11-13,46841,695,206,4711.78,8496.25,West,Product C
+tenant_001,camp_tenant_001_058,Campaign 59 - Display,2024-10-25,9881,3722,448,3520.02,8320.36,West,Product A
+tenant_001,camp_tenant_001_059,Campaign 60 - Search,2024-10-30,18974,1490,77,422.57,974.47,East,Product B
+tenant_001,camp_tenant_001_060,Campaign 61 - Social Media,2024-10-14,7688,4273,429,5360.5,10429.57,South,Product B
+tenant_001,camp_tenant_001_061,Campaign 62 - Social Media,2024-10-25,11217,4381,126,4883.46,11210.94,North,Product B
+tenant_001,camp_tenant_001_062,Campaign 63 - Video,2024-11-06,36235,1737,252,5652.69,10998.33,West,Product E
+tenant_001,camp_tenant_001_063,Campaign 64 - Search,2024-10-19,20377,4985,147,6708.36,18338.24,South,Product A
+tenant_001,camp_tenant_001_064,Campaign 65 - Email,2024-10-06,48504,3329,177,8669.91,14218.64,West,Product A
+tenant_001,camp_tenant_001_065,Campaign 66 - Search,2024-10-23,40441,907,494,1556.74,4289.06,West,Product D
+tenant_001,camp_tenant_001_066,Campaign 67 - Search,2024-11-10,32992,1602,247,1898.69,5648.11,South,Product A
+tenant_001,camp_tenant_001_067,Campaign 68 - Display,2024-11-12,24899,3227,94,2546.44,3550.74,East,Product A
+tenant_001,camp_tenant_001_068,Campaign 69 - Social Media,2024-10-07,26684,215,171,958.88,1218.1,North,Product D
+tenant_001,camp_tenant_001_069,Campaign 70 - Search,2024-10-19,13642,2652,35,5788.21,9143.8,East,Product C
+tenant_001,camp_tenant_001_070,Campaign 71 - Social Media,2024-11-07,40570,3787,346,6752.06,19184.67,North,Product A
+tenant_001,camp_tenant_001_071,Campaign 72 - Email,2024-11-21,43169,4873,199,1520.07,3942.5,East,Product C
+tenant_001,camp_tenant_001_072,Campaign 73 - Email,2024-11-28,17383,1538,354,7428.7,6594.58,East,Product B
+tenant_001,camp_tenant_001_073,Campaign 74 - Video,2024-10-18,20722,4304,55,7754.51,9847.12,North,Product E
+tenant_001,camp_tenant_001_074,Campaign 75 - Display,2024-11-07,46998,1138,210,6739.73,4269.01,East,Product C
+tenant_001,camp_tenant_001_075,Campaign 76 - Search,2024-10-12,8912,3220,323,9096.29,13734.95,South,Product B
+tenant_001,camp_tenant_001_076,Campaign 77 - Search,2024-10-08,46667,4683,346,8092.87,7611.49,North,Product A
+tenant_001,camp_tenant_001_077,Campaign 78 - Email,2024-10-11,46070,2461,356,2368.93,1300.13,South,Product A
+tenant_001,camp_tenant_001_078,Campaign 79 - Social Media,2024-11-23,30535,3885,402,9821.67,23295.92,North,Product D
+tenant_001,camp_tenant_001_079,Campaign 80 - Email,2024-11-07,47783,896,334,4062.19,5271.62,East,Product E
+tenant_001,camp_tenant_001_080,Campaign 81 - Display,2024-11-05,33168,1319,481,3077.24,6383.52,West,Product C
+tenant_001,camp_tenant_001_081,Campaign 82 - Social Media,2024-11-21,42044,350,306,2653.08,3716.15,South,Product D
+tenant_001,camp_tenant_001_082,Campaign 83 - Email,2024-10-17,43205,3630,74,1804.54,4889.11,East,Product A
+tenant_001,camp_tenant_001_083,Campaign 84 - Social Media,2024-10-20,34106,1013,118,1315.56,2093.21,South,Product A
+tenant_001,camp_tenant_001_084,Campaign 85 - Display,2024-10-26,33872,3724,211,386.64,296.09,East,Product A
+tenant_001,camp_tenant_001_085,Campaign 86 - Search,2024-10-31,37863,1317,191,1265.76,3607.01,East,Product E
+tenant_001,camp_tenant_001_086,Campaign 87 - Social Media,2024-11-14,9408,4266,229,7787.32,10536.68,North,Product B
+tenant_001,camp_tenant_001_087,Campaign 88 - Video,2024-10-26,7392,2904,223,3278.62,9198.57,South,Product B
+tenant_001,camp_tenant_001_088,Campaign 89 - Email,2024-11-18,49935,719,270,9245.99,8016.75,South,Product C
+tenant_001,camp_tenant_001_089,Campaign 90 - Social Media,2024-10-16,18660,4017,474,1467.03,1872.93,South,Product D
+tenant_001,camp_tenant_001_090,Campaign 91 - Search,2024-10-20,33650,2781,494,3171.52,2115.09,East,Product D
+tenant_001,camp_tenant_001_091,Campaign 92 - Email,2024-10-16,41306,1356,421,2086.59,5989.84,South,Product C
+tenant_001,camp_tenant_001_092,Campaign 93 - Display,2024-11-15,6081,2835,33,2604.84,6356.17,North,Product D
+tenant_001,camp_tenant_001_093,Campaign 94 - Search,2024-11-29,10204,4862,23,9980.38,20823.02,East,Product B
+tenant_001,camp_tenant_001_094,Campaign 95 - Social Media,2024-11-16,32387,165,250,8742.2,18021.28,West,Product B
+tenant_001,camp_tenant_001_095,Campaign 96 - Video,2024-11-18,27463,1823,493,7476.38,12565.97,West,Product D
+tenant_001,camp_tenant_001_096,Campaign 97 - Social Media,2024-11-21,36827,2606,152,5518.69,4533.9,North,Product B
+tenant_001,camp_tenant_001_097,Campaign 98 - Email,2024-10-19,34106,2705,359,8264.68,17701.86,South,Product A
+tenant_001,camp_tenant_001_098,Campaign 99 - Search,2024-11-03,11821,2315,298,522.27,992.24,South,Product B
+tenant_001,camp_tenant_001_099,Campaign 100 - Video,2024-11-24,32182,4993,60,7977.1,19323.2,South,Product A
+tenant_002,camp_tenant_002_000,Campaign 1 - Display,2024-10-05,37114,997,261,7272.48,18106.07,South,Product A
+tenant_002,camp_tenant_002_001,Campaign 2 - Video,2024-10-10,29718,2499,114,4130.51,2934.6,South,Product D
+tenant_002,camp_tenant_002_002,Campaign 3 - Video,2024-11-24,29708,1322,60,4497.82,8968.23,North,Product B
+tenant_002,camp_tenant_002_003,Campaign 4 - Email,2024-11-09,40773,2705,222,8800.93,14863.49,South,Product B
+tenant_002,camp_tenant_002_004,Campaign 5 - Email,2024-11-07,35891,4750,285,7264.44,17175.8,South,Product C
+tenant_002,camp_tenant_002_005,Campaign 6 - Social Media,2024-11-25,29379,710,177,9319.96,5769.54,West,Product E
+tenant_002,camp_tenant_002_006,Campaign 7 - Video,2024-11-19,26778,3870,352,9427.41,27265.91,West,Product C
+tenant_002,camp_tenant_002_007,Campaign 8 - Video,2024-11-15,12337,867,160,5880.29,3097.44,East,Product D
+tenant_002,camp_tenant_002_008,Campaign 9 - Display,2024-11-05,43350,1801,159,5653.53,10481.89,East,Product B
+tenant_002,camp_tenant_002_009,Campaign 10 - Display,2024-10-12,33765,3813,385,8741.34,23067.12,West,Product B
+tenant_002,camp_tenant_002_010,Campaign 11 - Video,2024-10-29,18100,3494,206,6114.23,8443.83,East,Product A
+tenant_002,camp_tenant_002_011,Campaign 12 - Social Media,2024-10-30,38805,1006,236,6639.87,6232.52,North,Product D
+tenant_002,camp_tenant_002_012,Campaign 13 - Video,2024-11-26,39755,1093,267,3635.41,5001.45,East,Product C
+tenant_002,camp_tenant_002_013,Campaign 14 - Email,2024-11-15,36158,3143,416,531.62,1088.63,East,Product E
+tenant_002,camp_tenant_002_014,Campaign 15 - Video,2024-11-16,15829,1070,184,4421.82,7600.03,North,Product D
+tenant_002,camp_tenant_002_015,Campaign 16 - Search,2024-10-13,39911,2038,401,5798.45,11140.1,East,Product C
+tenant_002,camp_tenant_002_016,Campaign 17 - Display,2024-10-25,9559,2104,246,8314.69,4343.75,West,Product B
+tenant_002,camp_tenant_002_017,Campaign 18 - Email,2024-11-01,39047,2517,389,5713.83,4726.52,East,Product E
+tenant_002,camp_tenant_002_018,Campaign 19 - Email,2024-11-19,24892,3558,243,9846.42,27720.06,North,Product E
+tenant_002,camp_tenant_002_019,Campaign 20 - Video,2024-10-05,11347,4376,332,4086.58,4553.36,North,Product B
+tenant_002,camp_tenant_002_020,Campaign 21 - Social Media,2024-10-07,24557,4786,256,4482.05,2383.5,North,Product E
+tenant_002,camp_tenant_002_021,Campaign 22 - Video,2024-10-03,49672,4650,91,3664.05,7589.15,West,Product C
+tenant_002,camp_tenant_002_022,Campaign 23 - Social Media,2024-11-01,34611,4553,325,611.14,1323.08,West,Product E
+tenant_002,camp_tenant_002_023,Campaign 24 - Email,2024-11-13,40185,3200,57,1127.07,2304.67,South,Product B
+tenant_002,camp_tenant_002_024,Campaign 25 - Display,2024-11-13,45213,1662,161,4066.64,4539.91,North,Product E
+tenant_002,camp_tenant_002_025,Campaign 26 - Display,2024-10-10,45489,1311,362,9464.78,10931.82,South,Product D
+tenant_002,camp_tenant_002_026,Campaign 27 - Search,2024-11-18,7729,1400,494,508.34,507.83,West,Product B
+tenant_002,camp_tenant_002_027,Campaign 28 - Email,2024-10-11,21156,664,475,3344.63,5469.05,East,Product B
+tenant_002,camp_tenant_002_028,Campaign 29 - Social Media,2024-10-18,37935,4751,221,5585.04,6012.58,East,Product B
+tenant_002,camp_tenant_002_029,Campaign 30 - Display,2024-11-06,41532,851,149,7115.42,7054.91,East,Product C
+tenant_002,camp_tenant_002_030,Campaign 31 - Search,2024-10-11,22043,498,218,9603.25,6024.6,South,Product D
+tenant_002,camp_tenant_002_031,Campaign 32 - Display,2024-10-10,31097,2593,86,1395.29,3712.36,West,Product D
+tenant_002,camp_tenant_002_032,Campaign 33 - Display,2024-10-08,18379,4009,408,3679.23,6832.11,South,Product E
+tenant_002,camp_tenant_002_033,Campaign 34 - Email,2024-11-15,25134,1070,284,8166.02,9433.8,North,Product C
+tenant_002,camp_tenant_002_034,Campaign 35 - Display,2024-10-22,38918,4425,326,6474.23,14236.66,East,Product C
+tenant_002,camp_tenant_002_035,Campaign 36 - Email,2024-10-18,29842,4531,411,9358.44,19977.84,West,Product C
+tenant_002,camp_tenant_002_036,Campaign 37 - Display,2024-10-06,37465,645,475,4308.0,5485.63,East,Product A
+tenant_002,camp_tenant_002_037,Campaign 38 - Email,2024-11-05,26949,2896,410,9223.5,11872.9,South,Product C
+tenant_002,camp_tenant_002_038,Campaign 39 - Email,2024-10-15,32714,456,104,8019.98,9179.92,West,Product E
+tenant_002,camp_tenant_002_039,Campaign 40 - Search,2024-11-07,12529,4380,343,2039.04,2158.73,West,Product A
+tenant_002,camp_tenant_002_040,Campaign 41 - Email,2024-11-10,23006,3361,142,8211.77,15234.36,North,Product E
+tenant_002,camp_tenant_002_041,Campaign 42 - Display,2024-11-27,26271,4078,274,5326.05,8835.52,North,Product B
+tenant_002,camp_tenant_002_042,Campaign 43 - Search,2024-10-27,16244,271,165,7926.28,20009.75,East,Product B
+tenant_002,camp_tenant_002_043,Campaign 44 - Search,2024-10-15,35702,729,133,7536.15,17022.5,North,Product A
+tenant_002,camp_tenant_002_044,Campaign 45 - Social Media,2024-10-17,38632,2625,281,5352.46,5835.4,East,Product D
+tenant_002,camp_tenant_002_045,Campaign 46 - Social Media,2024-10-05,18753,4641,465,3786.25,4628.03,South,Product D
+tenant_002,camp_tenant_002_046,Campaign 47 - Video,2024-10-19,38383,4180,142,3294.51,8221.61,North,Product B
+tenant_002,camp_tenant_002_047,Campaign 48 - Search,2024-11-11,39403,4276,35,3879.15,6097.63,North,Product E
+tenant_002,camp_tenant_002_048,Campaign 49 - Social Media,2024-10-31,25456,2168,69,9543.55,17682.78,North,Product D
+tenant_002,camp_tenant_002_049,Campaign 50 - Email,2024-10-10,38700,4102,44,4071.56,6972.62,South,Product C
+tenant_002,camp_tenant_002_050,Campaign 51 - Search,2024-11-22,5084,227,375,9223.17,17513.71,West,Product B
+tenant_002,camp_tenant_002_051,Campaign 52 - Social Media,2024-10-07,5753,771,109,9027.95,8357.95,West,Product A
+tenant_002,camp_tenant_002_052,Campaign 53 - Social Media,2024-11-02,11227,4646,70,4216.89,4421.79,West,Product A
+tenant_002,camp_tenant_002_053,Campaign 54 - Search,2024-11-09,36695,958,480,4506.42,11917.46,West,Product E
+tenant_002,camp_tenant_002_054,Campaign 55 - Search,2024-10-12,21362,3913,120,5876.44,15655.83,North,Product B
+tenant_002,camp_tenant_002_055,Campaign 56 - Video,2024-10-27,9476,4345,21,8469.62,25213.88,North,Product D
+tenant_002,camp_tenant_002_056,Campaign 57 - Display,2024-11-13,13693,1310,231,8448.76,11068.25,North,Product B
+tenant_002,camp_tenant_002_057,Campaign 58 - Video,2024-10-29,33599,998,211,5403.74,10946.64,West,Product B
+tenant_002,camp_tenant_002_058,Campaign 59 - Display,2024-11-21,14469,1589,25,5213.34,4495.52,East,Product A
+tenant_002,camp_tenant_002_059,Campaign 60 - Video,2024-11-02,34463,2626,44,4600.52,7488.41,South,Product E
+tenant_002,camp_tenant_002_060,Campaign 61 - Search,2024-10-15,48291,4874,416,2495.16,6430.56,West,Product D
+tenant_002,camp_tenant_002_061,Campaign 62 - Video,2024-11-10,35617,1723,418,3490.03,4377.47,West,Product C
+tenant_002,camp_tenant_002_062,Campaign 63 - Video,2024-11-08,20283,2056,195,3758.67,2034.8,North,Product D
+tenant_002,camp_tenant_002_063,Campaign 64 - Video,2024-11-25,41896,2700,27,5928.68,10128.05,West,Product E
+tenant_002,camp_tenant_002_064,Campaign 65 - Social Media,2024-10-13,17503,1292,388,7856.68,5018.64,South,Product A
+tenant_002,camp_tenant_002_065,Campaign 66 - Search,2024-10-31,42720,4382,406,3782.23,6265.81,East,Product A
+tenant_002,camp_tenant_002_066,Campaign 67 - Email,2024-11-08,13645,2129,72,417.74,871.6,North,Product D
+tenant_002,camp_tenant_002_067,Campaign 68 - Email,2024-10-21,13977,4988,143,936.15,1941.29,West,Product C
+tenant_002,camp_tenant_002_068,Campaign 69 - Video,2024-11-02,24244,2687,13,6954.86,18953.5,East,Product D
+tenant_002,camp_tenant_002_069,Campaign 70 - Search,2024-11-03,30801,4681,155,5679.06,13820.73,South,Product D
+tenant_002,camp_tenant_002_070,Campaign 71 - Email,2024-11-13,37037,4722,31,2305.91,5652.86,North,Product A
+tenant_002,camp_tenant_002_071,Campaign 72 - Search,2024-10-18,34355,3554,303,9492.62,15735.15,South,Product E
+tenant_002,camp_tenant_002_072,Campaign 73 - Social Media,2024-10-22,22876,547,493,3931.05,5981.82,North,Product D
+tenant_002,camp_tenant_002_073,Campaign 74 - Email,2024-10-05,12785,3102,423,7834.58,13923.47,East,Product C
+tenant_002,camp_tenant_002_074,Campaign 75 - Email,2024-10-01,7581,132,475,7214.57,13718.41,East,Product C
+tenant_002,camp_tenant_002_075,Campaign 76 - Search,2024-10-05,11699,3979,406,6213.1,11213.18,North,Product A
+tenant_002,camp_tenant_002_076,Campaign 77 - Email,2024-11-21,18717,3253,475,2457.11,5917.62,South,Product A
+tenant_002,camp_tenant_002_077,Campaign 78 - Social Media,2024-10-03,46876,1041,291,1680.78,2012.35,West,Product D
+tenant_002,camp_tenant_002_078,Campaign 79 - Video,2024-11-20,12026,3865,85,4258.66,4557.09,North,Product E
+tenant_002,camp_tenant_002_079,Campaign 80 - Video,2024-11-27,42377,1275,331,7823.48,19117.81,East,Product D
+tenant_002,camp_tenant_002_080,Campaign 81 - Social Media,2024-10-13,16103,2803,362,2528.36,6789.6,South,Product E
+tenant_002,camp_tenant_002_081,Campaign 82 - Social Media,2024-10-02,41453,4133,176,8686.41,17927.61,East,Product E
+tenant_002,camp_tenant_002_082,Campaign 83 - Social Media,2024-10-29,45849,2683,351,9485.37,23087.51,East,Product C
+tenant_002,camp_tenant_002_083,Campaign 84 - Display,2024-11-15,5820,4352,128,4090.39,10087.29,West,Product C
+tenant_002,camp_tenant_002_084,Campaign 85 - Social Media,2024-10-08,16023,2767,239,863.52,846.4,West,Product B
+tenant_002,camp_tenant_002_085,Campaign 86 - Social Media,2024-10-24,36783,537,79,3019.63,1770.44,West,Product C
+tenant_002,camp_tenant_002_086,Campaign 87 - Video,2024-10-02,49082,3177,254,5417.18,9410.36,South,Product B
+tenant_002,camp_tenant_002_087,Campaign 88 - Display,2024-11-08,14120,751,193,4553.53,8916.58,West,Product C
+tenant_002,camp_tenant_002_088,Campaign 89 - Search,2024-10-23,8358,2490,62,856.87,2053.43,North,Product D
+tenant_002,camp_tenant_002_089,Campaign 90 - Social Media,2024-10-06,17226,327,371,671.33,608.58,South,Product B
+tenant_002,camp_tenant_002_090,Campaign 91 - Search,2024-11-16,31273,2011,119,9344.94,13096.91,West,Product C
+tenant_002,camp_tenant_002_091,Campaign 92 - Search,2024-10-05,18694,1382,70,9796.42,26244.57,West,Product D
+tenant_002,camp_tenant_002_092,Campaign 93 - Email,2024-11-03,12477,2455,330,6387.95,11219.63,South,Product A
+tenant_002,camp_tenant_002_093,Campaign 94 - Display,2024-11-08,15141,3706,325,1840.53,3289.39,West,Product C
+tenant_002,camp_tenant_002_094,Campaign 95 - Email,2024-10-29,46640,619,278,1615.58,3616.74,North,Product C
+tenant_002,camp_tenant_002_095,Campaign 96 - Search,2024-11-02,41708,4879,164,7053.2,14518.13,West,Product D
+tenant_002,camp_tenant_002_096,Campaign 97 - Search,2024-11-22,34939,1056,255,5437.68,8189.39,North,Product C
+tenant_002,camp_tenant_002_097,Campaign 98 - Search,2024-11-18,15653,288,461,1458.39,1935.48,East,Product E
+tenant_002,camp_tenant_002_098,Campaign 99 - Video,2024-11-04,25630,2527,155,8745.67,10371.23,South,Product E
+tenant_002,camp_tenant_002_099,Campaign 100 - Display,2024-10-13,44437,166,220,1942.68,1058.76,East,Product C
+tenant_003,camp_tenant_003_000,Campaign 1 - Email,2024-10-18,42477,1335,174,5355.77,10640.99,East,Product C
+tenant_003,camp_tenant_003_001,Campaign 2 - Social Media,2024-10-26,37499,2451,467,8519.46,9677.98,North,Product B
+tenant_003,camp_tenant_003_002,Campaign 3 - Video,2024-10-12,37278,3925,414,4048.4,3570.84,West,Product C
+tenant_003,camp_tenant_003_003,Campaign 4 - Video,2024-11-20,26135,543,112,8796.79,12839.07,North,Product B
+tenant_003,camp_tenant_003_004,Campaign 5 - Social Media,2024-11-24,8605,1316,53,4132.4,11556.58,West,Product C
+tenant_003,camp_tenant_003_005,Campaign 6 - Video,2024-10-24,22295,2823,231,2310.21,1482.32,West,Product E
+tenant_003,camp_tenant_003_006,Campaign 7 - Video,2024-10-20,45895,1382,85,7613.83,13120.96,North,Product D
+tenant_003,camp_tenant_003_007,Campaign 8 - Social Media,2024-11-30,17925,1842,200,1139.95,1567.87,North,Product C
+tenant_003,camp_tenant_003_008,Campaign 9 - Social Media,2024-10-10,43829,2428,224,7342.92,12657.93,North,Product B
+tenant_003,camp_tenant_003_009,Campaign 10 - Social Media,2024-11-10,26553,1957,251,6455.64,17540.02,East,Product D
+tenant_003,camp_tenant_003_010,Campaign 11 - Video,2024-11-08,45335,1125,390,199.64,140.94,South,Product E
+tenant_003,camp_tenant_003_011,Campaign 12 - Video,2024-10-22,32044,1819,256,9760.29,26147.61,West,Product D
+tenant_003,camp_tenant_003_012,Campaign 13 - Email,2024-11-16,12543,1528,111,8859.62,22508.78,West,Product B
+tenant_003,camp_tenant_003_013,Campaign 14 - Social Media,2024-10-10,5550,1770,245,673.44,721.24,North,Product C
+tenant_003,camp_tenant_003_014,Campaign 15 - Video,2024-11-27,34487,4497,133,9284.83,8261.51,South,Product B
+tenant_003,camp_tenant_003_015,Campaign 16 - Display,2024-10-29,30531,850,15,5285.24,6627.64,East,Product A
+tenant_003,camp_tenant_003_016,Campaign 17 - Social Media,2024-10-13,12352,4631,479,4053.45,5225.19,West,Product C
+tenant_003,camp_tenant_003_017,Campaign 18 - Display,2024-10-07,32815,4648,337,7210.11,5118.86,South,Product E
+tenant_003,camp_tenant_003_018,Campaign 19 - Email,2024-11-09,32953,2667,314,7190.32,17015.18,South,Product A
+tenant_003,camp_tenant_003_019,Campaign 20 - Email,2024-10-13,33923,3152,449,1411.85,2711.23,West,Product E
+tenant_003,camp_tenant_003_020,Campaign 21 - Social Media,2024-10-29,48855,998,483,8059.21,15527.61,East,Product D
+tenant_003,camp_tenant_003_021,Campaign 22 - Search,2024-11-09,29424,2755,206,2885.23,4510.64,West,Product C
+tenant_003,camp_tenant_003_022,Campaign 23 - Social Media,2024-11-05,41253,1185,34,1601.11,3098.16,North,Product A
+tenant_003,camp_tenant_003_023,Campaign 24 - Email,2024-11-18,40183,2819,115,7673.64,15320.04,East,Product D
+tenant_003,camp_tenant_003_024,Campaign 25 - Video,2024-11-17,26364,4015,90,5101.57,6621.66,East,Product A
+tenant_003,camp_tenant_003_025,Campaign 26 - Display,2024-10-17,41171,2684,424,4919.37,8388.59,West,Product D
+tenant_003,camp_tenant_003_026,Campaign 27 - Email,2024-11-23,7556,764,131,1867.51,4759.63,South,Product E
+tenant_003,camp_tenant_003_027,Campaign 28 - Social Media,2024-11-30,42853,839,409,2300.51,4255.99,East,Product C
+tenant_003,camp_tenant_003_028,Campaign 29 - Social Media,2024-11-18,30380,1790,196,6292.77,8368.23,West,Product C
+tenant_003,camp_tenant_003_029,Campaign 30 - Email,2024-11-05,48090,4832,103,5181.89,2763.57,North,Product B
+tenant_003,camp_tenant_003_030,Campaign 31 - Social Media,2024-11-03,10567,1265,303,8319.49,22686.03,North,Product B
+tenant_003,camp_tenant_003_031,Campaign 32 - Email,2024-10-06,37624,4705,234,1808.52,1540.09,East,Product B
+tenant_003,camp_tenant_003_032,Campaign 33 - Social Media,2024-10-28,5485,1151,229,8583.11,6279.89,East,Product E
+tenant_003,camp_tenant_003_033,Campaign 34 - Social Media,2024-10-03,27712,3176,295,2249.92,2384.33,West,Product B
+tenant_003,camp_tenant_003_034,Campaign 35 - Display,2024-11-17,49867,2016,170,4750.06,12447.57,West,Product D
+tenant_003,camp_tenant_003_035,Campaign 36 - Display,2024-10-19,28569,4348,184,9776.22,28162.79,South,Product B
+tenant_003,camp_tenant_003_036,Campaign 37 - Search,2024-11-06,29289,1362,496,7026.93,17171.54,North,Product C
+tenant_003,camp_tenant_003_037,Campaign 38 - Display,2024-10-14,32779,2213,347,9872.95,24289.08,West,Product B
+tenant_003,camp_tenant_003_038,Campaign 39 - Video,2024-10-15,18953,4622,404,7230.42,18366.79,West,Product D
+tenant_003,camp_tenant_003_039,Campaign 40 - Display,2024-10-18,42267,4122,265,8735.54,23806.53,North,Product C
+tenant_003,camp_tenant_003_040,Campaign 41 - Video,2024-10-24,24121,142,216,9496.73,22620.95,East,Product B
+tenant_003,camp_tenant_003_041,Campaign 42 - Video,2024-10-11,31703,3302,130,2501.67,5929.17,East,Product C
+tenant_003,camp_tenant_003_042,Campaign 43 - Search,2024-11-14,23739,4732,314,3914.44,5852.11,South,Product E
+tenant_003,camp_tenant_003_043,Campaign 44 - Video,2024-10-20,42838,1157,384,7215.17,5904.83,West,Product A
+tenant_003,camp_tenant_003_044,Campaign 45 - Search,2024-10-20,12120,869,361,5056.57,10000.74,West,Product A
+tenant_003,camp_tenant_003_045,Campaign 46 - Social Media,2024-10-18,5851,1019,353,2620.82,7583.33,East,Product E
+tenant_003,camp_tenant_003_046,Campaign 47 - Search,2024-10-25,47903,405,217,9822.11,12367.18,East,Product D
+tenant_003,camp_tenant_003_047,Campaign 48 - Video,2024-10-15,26020,551,485,5394.94,12577.0,North,Product C
+tenant_003,camp_tenant_003_048,Campaign 49 - Video,2024-11-30,48250,1560,363,584.91,447.62,East,Product D
+tenant_003,camp_tenant_003_049,Campaign 50 - Display,2024-10-26,27934,1790,260,3505.64,2882.14,South,Product D
+tenant_003,camp_tenant_003_050,Campaign 51 - Display,2024-10-31,42096,2354,17,215.08,305.34,North,Product D
+tenant_003,camp_tenant_003_051,Campaign 52 - Email,2024-10-25,36891,925,282,4259.54,11381.51,South,Product A
+tenant_003,camp_tenant_003_052,Campaign 53 - Social Media,2024-11-08,44479,4865,207,6958.18,7790.71,East,Product C
+tenant_003,camp_tenant_003_053,Campaign 54 - Search,2024-10-29,25104,2034,400,1693.13,3201.32,East,Product D
+tenant_003,camp_tenant_003_054,Campaign 55 - Video,2024-11-18,34961,256,385,9668.73,5145.82,West,Product E
+tenant_003,camp_tenant_003_055,Campaign 56 - Email,2024-10-19,32840,4355,426,4345.06,8654.71,North,Product D
+tenant_003,camp_tenant_003_056,Campaign 57 - Search,2024-10-04,31714,118,486,5180.89,15492.46,West,Product E
+tenant_003,camp_tenant_003_057,Campaign 58 - Social Media,2024-10-05,44853,1772,414,839.5,781.46,East,Product E
+tenant_003,camp_tenant_003_058,Campaign 59 - Email,2024-11-14,39442,728,99,9265.21,5137.93,West,Product E
+tenant_003,camp_tenant_003_059,Campaign 60 - Social Media,2024-11-22,16679,3871,348,4001.67,6666.52,South,Product E
+tenant_003,camp_tenant_003_060,Campaign 61 - Email,2024-10-06,42430,1773,295,8017.2,23003.97,North,Product B
+tenant_003,camp_tenant_003_061,Campaign 62 - Video,2024-10-09,31499,4491,485,9895.35,25848.87,North,Product A
+tenant_003,camp_tenant_003_062,Campaign 63 - Email,2024-11-21,46110,1923,447,7538.33,20844.23,West,Product E
+tenant_003,camp_tenant_003_063,Campaign 64 - Search,2024-11-07,29193,4892,440,8368.53,4540.06,West,Product A
+tenant_003,camp_tenant_003_064,Campaign 65 - Video,2024-11-29,8756,4394,440,173.64,497.64,South,Product D
+tenant_003,camp_tenant_003_065,Campaign 66 - Video,2024-10-28,40887,4061,213,9764.24,21596.92,West,Product C
+tenant_003,camp_tenant_003_066,Campaign 67 - Email,2024-10-08,9594,4009,120,3771.84,2132.67,South,Product B
+tenant_003,camp_tenant_003_067,Campaign 68 - Search,2024-11-19,16440,4494,326,5181.28,5577.6,North,Product D
+tenant_003,camp_tenant_003_068,Campaign 69 - Social Media,2024-10-16,25845,1712,54,9391.67,18401.33,East,Product B
+tenant_003,camp_tenant_003_069,Campaign 70 - Video,2024-11-02,6335,4885,10,3755.72,7401.79,South,Product D
+tenant_003,camp_tenant_003_070,Campaign 71 - Email,2024-11-28,46273,1984,456,5551.72,14710.71,North,Product D
+tenant_003,camp_tenant_003_071,Campaign 72 - Email,2024-10-27,7433,4901,492,169.81,123.61,West,Product B
+tenant_003,camp_tenant_003_072,Campaign 73 - Email,2024-11-04,16671,3255,458,8881.73,6292.81,North,Product B
+tenant_003,camp_tenant_003_073,Campaign 74 - Social Media,2024-10-28,23111,3237,214,8941.36,14876.28,West,Product E
+tenant_003,camp_tenant_003_074,Campaign 75 - Email,2024-11-28,30205,1934,269,7685.32,5201.13,West,Product D
+tenant_003,camp_tenant_003_075,Campaign 76 - Video,2024-10-29,36477,2659,59,4167.06,6392.88,South,Product D
+tenant_003,camp_tenant_003_076,Campaign 77 - Display,2024-10-19,30133,2404,119,4931.95,9711.52,West,Product A
+tenant_003,camp_tenant_003_077,Campaign 78 - Video,2024-11-16,49006,2430,114,5336.99,13303.65,North,Product C
+tenant_003,camp_tenant_003_078,Campaign 79 - Video,2024-10-25,17816,3544,445,9230.46,9346.54,North,Product C
+tenant_003,camp_tenant_003_079,Campaign 80 - Social Media,2024-10-28,22996,1522,223,4390.64,6985.03,West,Product C
+tenant_003,camp_tenant_003_080,Campaign 81 - Display,2024-11-20,15826,273,414,4938.91,14528.64,East,Product E
+tenant_003,camp_tenant_003_081,Campaign 82 - Display,2024-11-11,19011,4620,164,3800.11,2832.88,North,Product E
+tenant_003,camp_tenant_003_082,Campaign 83 - Display,2024-10-25,13866,422,324,5452.31,13959.79,West,Product C
+tenant_003,camp_tenant_003_083,Campaign 84 - Display,2024-11-24,34477,2022,121,9011.67,16634.61,South,Product B
+tenant_003,camp_tenant_003_084,Campaign 85 - Display,2024-10-01,12377,1775,479,7501.81,21498.18,South,Product E
+tenant_003,camp_tenant_003_085,Campaign 86 - Video,2024-11-27,16403,4079,252,6337.53,8273.73,West,Product A
+tenant_003,camp_tenant_003_086,Campaign 87 - Social Media,2024-11-03,36834,4854,301,2642.79,5558.25,North,Product C
+tenant_003,camp_tenant_003_087,Campaign 88 - Email,2024-11-01,13461,4718,128,2887.24,3061.5,North,Product A
+tenant_003,camp_tenant_003_088,Campaign 89 - Social Media,2024-10-16,8504,4225,500,7886.42,22380.91,West,Product A
+tenant_003,camp_tenant_003_089,Campaign 90 - Social Media,2024-10-25,22400,4831,409,6882.07,3828.29,South,Product B
+tenant_003,camp_tenant_003_090,Campaign 91 - Social Media,2024-11-27,36402,4519,63,5144.38,10012.03,East,Product C
+tenant_003,camp_tenant_003_091,Campaign 92 - Display,2024-11-15,25293,520,91,7623.99,5707.2,West,Product E
+tenant_003,camp_tenant_003_092,Campaign 93 - Social Media,2024-11-17,15272,2419,153,5161.06,9987.56,East,Product A
+tenant_003,camp_tenant_003_093,Campaign 94 - Email,2024-11-08,47823,3672,90,8937.76,8062.87,West,Product A
+tenant_003,camp_tenant_003_094,Campaign 95 - Search,2024-11-01,40482,2535,290,6642.37,4365.86,East,Product A
+tenant_003,camp_tenant_003_095,Campaign 96 - Social Media,2024-10-13,41678,3772,397,8949.41,25744.39,North,Product A
+tenant_003,camp_tenant_003_096,Campaign 97 - Email,2024-11-26,35828,1668,187,8144.16,18394.21,West,Product C
+tenant_003,camp_tenant_003_097,Campaign 98 - Display,2024-11-28,35806,3976,338,9788.56,28145.65,North,Product A
+tenant_003,camp_tenant_003_098,Campaign 99 - Video,2024-11-19,8390,3705,50,2282.67,2498.78,North,Product C
+tenant_003,camp_tenant_003_099,Campaign 100 - Display,2024-10-15,41037,2234,283,4505.08,12198.38,West,Product B
