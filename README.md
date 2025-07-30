@@ -224,7 +224,7 @@ This project demonstrates advanced data engineering skills suitable for:
 ## 📞 **Contact**
 
 **LinkedIn**:(https://www.linkedin.com/in/aqsa-tanveer-3816361a0/)
-**GitHub**: [Your GitHub Profile](https://github.com/aqsa11111)
+**GitHub**: (https://github.com/aqsa11111)
 
 
 ---
