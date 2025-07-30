@@ -10,7 +10,7 @@ A comprehensive **Multi-Tenant Business Intelligence Platform** with end-to-end 
 - **ETL Pipeline** | **Data Warehousing** | **Multi-tenant Architecture**
 - **Error Handling** | **Logging** | **Documentation**
 
-### **�� Key Achievements:**
+### **📊 Key Achievements:**
 - ✅ **900+ marketing campaigns** processed across 3 tenants
 - ✅ **2,160+ sales targets** with complex transformations
 - ✅ **450+ customer records** with API integration
